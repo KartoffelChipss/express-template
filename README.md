@@ -1,1 +1,1 @@
-# express-template
+# Simple express.js server template
